@@ -1,3 +1,4 @@
+# Text signature
 ```
  _   _ _   _  __     __        _             
 | | | | \ | | \ \   / /__  ___| |_ ___  _ __ 
@@ -13,3 +14,9 @@
 
        Make the technology the easy part.
 ```
+# Image signature designed for GitHub Social Preview
+![](https://un-vector-tile-toolkit.github.io/signature/logo.png)
+
+# Use Policy
+- Just feel free to use them.
+- We may change the signature without a prior notice.
