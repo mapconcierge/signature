@@ -17,6 +17,13 @@
 # Image signature designed for GitHub Social Preview
 ![](https://un-vector-tile-toolkit.github.io/signature/logo.png)
 
+# Icon
+![](https://un-vector-tile-toolkit.github.io/signature/icon.png)
+
+# Font and color
+font: Futura Medium
+color: `#5090cd`, `rgb(80, 144, 205)`
+
 # Use Policy
 - Just feel free to use them.
 - We may change the signature without a prior notice.
