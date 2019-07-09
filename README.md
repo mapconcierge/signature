@@ -20,6 +20,9 @@
 # Icon
 ![](https://un-vector-tile-toolkit.github.io/signature/icon.png)
 
+# Square icon
+![](https://un-vector-tile-toolkit.github.io/signature/square-icon.png)
+
 # Font and color
 font: Futura Medium
 color: `#5090cd`, `rgb(80, 144, 205)`
