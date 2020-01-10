@@ -25,6 +25,7 @@
 
 # Font and color
 font: Futura Medium
+
 color: `#5090cd`, `rgb(80, 144, 205)`
 
 # Use Policy
